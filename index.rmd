@@ -30,7 +30,7 @@ knitr::opts_chunk$set(
 
 ### Several key notions to understand:
 
-![](assets/img/git_1.png)
+<img src="assets/img/git_1.png" style="margin-top:2em;" align="center"></img>
 
 ## Key concept: Difference between local vs distant
 
@@ -39,7 +39,8 @@ knitr::opts_chunk$set(
 - Github and Gitlab are services backing up your local history
 - Local history (on your computer) vs remote history (on distant server)
 
-![](assets/img/git_1.png)
+<img src="assets/img/git_2.png" height="200px" align="left"></img>
+
 
 # The standard workflow
 
